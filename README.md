@@ -2,10 +2,6 @@
 ## Requirements for Assignment #2
 [Read the instruction](https://github.com/STIWK2124-A251/class-activity-stiwk2124/blob/main/Assignment-2.md)
 
-## Group Info:
-
-## Title of your application (a unique title)
-**ConfEase Backend: A Spring Boot and MySQL-Powered Conference Management API**
 
 ## Link for Docker Image
 
@@ -422,20 +418,3 @@ After Deletion
 
 
 
-
-## References (Not less than 10)
-
-1. Building a RESTful Web Service. (n.d.). Spring.io. Retrieved from https://spring.io/guides/gs/rest-service
-2. Hequan Shi, Lingyun Ying, Libo Chen, Haixin Duan, Ming Liu, and Zhi Xue. (2025). Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem. In Proceedings of the ACM on Web Conference 2025 (WWW '25) (pp. 2813–2823). Association for Computing Machinery, New York, NY, USA. https://doi-org.eserv.uum.edu.my/10.1145/3696410.3714653
-3. Li, N., Wang, J., Chen, C., & Hu, H. (2024). Application of API automation testing based on micro-service mode in industry software. Algorithms, Software Engineering, and Network Security (ASENS 2024) (pp. 460–464). https://doi.org/10.1145/3677182.3677264
-4. Michail Pantelelis, & Christos Kalloniatis. (2023). Mapping CRUD to Events - Towards an object to event-sourcing framework. https://doi.org/10.1145/3575879.3576006
-5. Minh, N. H. (2022). Spring Data JPA Composite Primary Key Examples. Codejava.net. Retrieved from https://www.codejava.net/frameworks/spring/spring-data-jpa-composite-primary-key-examples
-6. Mikael Sabuhi, Petr Musilek, and Cor-Paul Bezemer. (2022). Studying the Performance Risks of Upgrading Docker Hub Images: A Case Study of WordPress. In Proceedings of the 2022 ACM/SPEC on International Conference on Performance Engineering (ICPE '22) (pp. 97–104). Association for Computing Machinery, New York, NY, USA. https://doi-org.eserv.uum.edu.my/10.1145/3489525.3511683
-7. Rodríguez, K. S. R., Avellaneda Galindo, J. D., Tárrega Juan, J., Bermejo Higuera, J. R., Bermejo Higuera, J., & Sicilia Montalvo, J. A. (2025). Secure development methodology for full stack web applications: Proof of the methodology applied to Vue.js, Spring Boot and MySQL. Computers, Materials & Continua. Retrieved from https://www.sciencedirect.com/org/science/article/pii/S1546221825008203
-8. Zhao, P., Zhang, D., & Lei, S. (2024). Design and Implementation of Office Automation Management System Based on Spring Boot. 37 (pp. 228–233). https://doi.org/10.1145/3686424.3686463
-9. Wan Ishak, W. H. W., Mat Yamin, F., Mohamad Mohsin, M. F., & Mansor, M. F. (2023). A comparative review of conference management system. Journal of Technology and Operations Management, 18(2), 87–93. https://doi.org/10.32890/jtom2023.18.2.7
-10. Patil, A. H. L., Mahalle, P. N., Patil, V. H., & Bhavsar, S. A. (2022). An efficient and intelligent conference management system- desired services and features. Research Square. Preprint. https://doi.org/10.21203/rs.3.rs-1900925/v1
-‌
-## Link for the YouTube Presentation
-
-https://youtu.be/HlTsJQya2yA?si=khqiOmxuotqB4gpV 

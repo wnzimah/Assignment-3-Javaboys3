@@ -4,15 +4,6 @@
 
 ## Group Info:
 
-| Photo | Name | Matric No | Phone Number | 
-|-------|------|-----------|--------------|
-| <img src="https://github.com/user-attachments/assets/e9652f90-518b-4b7f-9b35-539bad5e0da4" width="120"/> | Nurul Aini Binti Ahmad Nazli (Leader) | 299958 | 016-6102445 |
-| <img src="https://github.com/user-attachments/assets/f4dcc649-70ea-4cdf-b690-f3eb786e2a6f" width="120"/> | Nurul Nabilah Binti Mohamed Mahathir | 298612 |  011-28942697 |
-| <img src="https://github.com/user-attachments/assets/a16e2717-3252-4e0c-9b12-c603276a8bb9" width="120"/> | Nur Syazalina Binti Badrul Hisham | 297527 | 019-4611310 |
-| <img src="https://github.com/user-attachments/assets/4dee492c-69cc-40cb-a75c-66a280799366" width="120"/> | Nur Atirah Binti Mohd Ridzuan | 300697 | 011-64489554 |
-| <img src="https://github.com/user-attachments/assets/6cc45fc2-38ab-4842-900a-77be754a13f4" width="120"/> | Wan Nur Azimah Binti Wan Rahmat | 297976 | 011-60724726 |
-
-
 ## Title of your application (a unique title)
 **ConfEase Backend: A Spring Boot and MySQL-Powered Conference Management API**
 
